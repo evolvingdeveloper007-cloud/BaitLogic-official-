@@ -1,3 +1,3 @@
 supabaseUrl: supabaseUrl:
 'https://khhishscjirjxhsulniq.supabase.co',
-supabaseAnonKey: 'PASTE THE CURRENT PUBLISHABLE KEY FROM khhishscjirjxhsulniq HERE',
+supabaseAnonKey: sb_publishable_d-MPFEIo3g9ORJXFzHiKtA_sIBHHD_7
